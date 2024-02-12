@@ -1,7 +1,7 @@
 TECHNIK
 
 Presenting an E-commerce platform centered around the production of various computer hardware components, including processors, graphic processors, and desktop computers. 
-This project incorporates front-end technologies such as HTML, CSS, JavaScript, and Bootstrap, alongside PHP for the back-end functionalities.
+This project incorporates front-end technologies such as HTML, CSS and JavaScript alongside PHP for the back-end functionalities.
 
 Operable through localhost using XAMPP, the website features functional add-to-cart capabilities and navigation pages integrated into the navbar. 
 While minor bugs persist due to its academic nature, the ongoing development of this web application remains subject to the decisions of the development team.
@@ -12,7 +12,6 @@ Front-end:
 • HTML  
 • CSS  
 • Javascript   
-• Bootstrap  
   
 Back-end:  
 • PHP  
